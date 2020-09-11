@@ -39,7 +39,7 @@
 	<h1 style="margin-left: 20px;">Register New User</h1>
 	
 	<form action="#" method="post" id="myForm">
-		<label for="username">Username</label>
+		<label for="username">UserName</label>
 		<input type="text" id="newUser" name="newUser">
 		<label for="password">Password</label>
 		<input type="text" id="newPass" name="newPass">
